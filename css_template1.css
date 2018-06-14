@@ -1,0 +1,33 @@
+
+    <head>
+        
+        <style> 
+        	.dummy {
+        	}
+        	h2 {
+                text-align: center;
+                color: rgb(255, 0, 0);
+                font-family: cursive;
+            }
+            h1 {
+              text-align: center;
+              color: rgb(200, 0, 255);
+              font-family: fantasy;
+            }
+            
+            .topic {
+                font-family: monospace;
+                font-size: 15px;
+                color: rgb(46, 58, 166);
+            }
+            .blank {
+                color: rgb(46, 58, 166);
+            }
+            body {
+                background-color: yellow;
+                margin-left: 20px;
+            }
+            
+        </style>
+    </head>
+
